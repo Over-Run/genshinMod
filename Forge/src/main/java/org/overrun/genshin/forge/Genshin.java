@@ -52,5 +52,4 @@ public final class Genshin {
             LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
         }
     }
-
 }
